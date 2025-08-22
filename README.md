@@ -14,8 +14,9 @@ The **Expense Tracker** mobile app is designed to help users efficiently manage 
 
 This application aims to provide a user-friendly interface and powerful features that help users manage their financial well-being.
 
-This app was oiginally a group project in my final year of university, copied here for convenience.
-https://www.youtube.com/watch?v=dfk_-6fy-4o
+This app was originally a group project in my final year of university, copied here for convenience.
+
+
 ---
 
 ## Contribution Guidelines
